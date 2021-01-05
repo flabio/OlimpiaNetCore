@@ -1,0 +1,9 @@
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.IC\bin\Debug\netcoreapp3.1\Olimpia.IC.deps.json
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.IC\bin\Debug\netcoreapp3.1\Olimpia.IC.dll
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.IC\bin\Debug\netcoreapp3.1\Olimpia.IC.pdb
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.IC\obj\Debug\netcoreapp3.1\Olimpia.IC.csprojAssemblyReference.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.IC\obj\Debug\netcoreapp3.1\Olimpia.IC.AssemblyInfoInputs.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.IC\obj\Debug\netcoreapp3.1\Olimpia.IC.AssemblyInfo.cs
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.IC\obj\Debug\netcoreapp3.1\Olimpia.IC.csproj.CoreCompileInputs.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.IC\obj\Debug\netcoreapp3.1\Olimpia.IC.dll
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.IC\obj\Debug\netcoreapp3.1\Olimpia.IC.pdb

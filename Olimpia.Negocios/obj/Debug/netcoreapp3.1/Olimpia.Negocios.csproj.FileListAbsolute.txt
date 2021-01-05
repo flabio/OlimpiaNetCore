@@ -1,0 +1,16 @@
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\bin\Debug\netcoreapp3.1\Olimpia.Negocios.deps.json
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\bin\Debug\netcoreapp3.1\Olimpia.Negocios.dll
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\bin\Debug\netcoreapp3.1\Olimpia.Negocios.pdb
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\obj\Debug\netcoreapp3.1\Olimpia.Negocios.csprojAssemblyReference.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\obj\Debug\netcoreapp3.1\Olimpia.Negocios.AssemblyInfoInputs.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\obj\Debug\netcoreapp3.1\Olimpia.Negocios.AssemblyInfo.cs
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\obj\Debug\netcoreapp3.1\Olimpia.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\obj\Debug\netcoreapp3.1\Olimpia.Negocios.dll
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\obj\Debug\netcoreapp3.1\Olimpia.Negocios.pdb
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\bin\Debug\netcoreapp3.1\Olimpia.Datas.dll
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\bin\Debug\netcoreapp3.1\Olimpia.IC.dll
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\bin\Debug\netcoreapp3.1\Olimpia.Datas.pdb
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\bin\Debug\netcoreapp3.1\Olimpia.IC.pdb
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\obj\Debug\netcoreapp3.1\Olimpia.Negocios.csproj.CopyComplete
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\obj\Debug\netcoreapp3.1\Olimpia.Negocios.App_LocalResources.rscMsg.resources
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Negocios\obj\Debug\netcoreapp3.1\Olimpia.Negocios.csproj.GenerateResource.cache

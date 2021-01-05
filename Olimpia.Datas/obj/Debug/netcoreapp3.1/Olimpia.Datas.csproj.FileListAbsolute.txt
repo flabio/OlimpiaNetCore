@@ -1,0 +1,15 @@
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\bin\Debug\netcoreapp3.1\Olimpia.Datas.deps.json
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\bin\Debug\netcoreapp3.1\Olimpia.Datas.runtimeconfig.json
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\bin\Debug\netcoreapp3.1\Olimpia.Datas.runtimeconfig.dev.json
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\bin\Debug\netcoreapp3.1\Olimpia.Datas.dll
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\bin\Debug\netcoreapp3.1\Olimpia.Datas.pdb
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\obj\Debug\netcoreapp3.1\Olimpia.Datas.csprojAssemblyReference.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\obj\Debug\netcoreapp3.1\Olimpia.Datas.AssemblyInfoInputs.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\obj\Debug\netcoreapp3.1\Olimpia.Datas.AssemblyInfo.cs
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\obj\Debug\netcoreapp3.1\Olimpia.Datas.csproj.CoreCompileInputs.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\obj\Debug\netcoreapp3.1\Olimpia.Datas.dll
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\obj\Debug\netcoreapp3.1\Olimpia.Datas.pdb
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\obj\Debug\netcoreapp3.1\Olimpia.Datas.genruntimeconfig.cache
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\bin\Debug\netcoreapp3.1\Olimpia.IC.dll
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\bin\Debug\netcoreapp3.1\Olimpia.IC.pdb
+C:\Users\flabi\Documents\testOlimpica\Olimpia\Olimpia.Datas\obj\Debug\netcoreapp3.1\Olimpia.Datas.csproj.CopyComplete
